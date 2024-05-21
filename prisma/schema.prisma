@@ -19,11 +19,11 @@ model User {
 }
 
 model Employee {
-  id String @id @default(uuid())
+  id        String @id @default(uuid())
   firstName String
-  lastName String
-  age String
-  adress String
+  lastName  String
+  age       String
+  adress    String
   user User @relation(fields: [userid], references: [id])
-  userid String
+  userid    String
 }
