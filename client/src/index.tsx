@@ -5,6 +5,15 @@ import { store } from "./app/store";
 import reportWebVitals from "./reportWebVitals";
 import { ConfigProvider, theme } from "antd";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { AddEmployee } from "./pages/add-employee";
+import { Employees } from "./pages/employees";
+import { Register } from "./pages/register";
+import { Login } from "./pages/login";
+import { Employee } from "./pages/employee";
+import { Status } from "./pages/status";
+import { EditEmployee } from "./pages/edit-employee";
+import { Auth } from "./features/auth/auth";
+import { Paths } from "./paths";
 import "./index.css";
 
 const router = createBrowserRouter([
