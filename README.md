@@ -4,16 +4,16 @@
 React, TypeScript, Redux Toolkit, Express
 
 Страница входа:
-![Страница входа](users/enter)
+![Страница входа](users/enter.png)
 
 Страница регистрации:
-![Страница регистрации](users/registration)
+![Страница регистрации](users/registration.png)
 
 Страница добавления сотрудника:
-![Страница добавления сотрудника](users/all)
+![Страница добавления сотрудника](users/all.png)
 
 Usecase:
-![Usecase](users/UseCase)
+![Usecase](users/UseCase.png)
 
 ERD:
-![ERD](users/erd)
+![ERD](users/erd.png)
