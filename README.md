@@ -12,6 +12,12 @@ React, TypeScript, Redux Toolkit, Express
 Страница добавления сотрудника:
 ![Страница добавления сотрудника](all.png)
 
+Страница редактирования/удаления сотрудника:
+![Delete](delete.png)
+
+Страница успешного добавления сотрудника:
+![Success](success.png)
+
 Usecase:
 ![Usecase](UseCase.png)
 
