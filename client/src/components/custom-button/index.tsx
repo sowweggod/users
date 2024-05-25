@@ -25,7 +25,6 @@ export const CustomButton = ({
   return (
     <Form.Item>
       <Button
-        type={type}
         htmlType={htmlType}
         danger={danger}
         loading={loading}
